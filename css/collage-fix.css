@@ -1,0 +1,9 @@
+#eng-pics .img-wrap {
+    height: 200px;
+    overflow: hidden;
+}
+#eng-pics .img-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

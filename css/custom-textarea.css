@@ -1,0 +1,40 @@
+.rsvp .rsvp-form .form-input-group textarea {
+    padding-left: 68px;
+    padding-top: 15px;
+    width: 100%;
+    min-height: 80px;
+    border-radius: 6px;
+    border: none;
+    resize: vertical;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+}
+
+.rsvp .rsvp-form .form-input-group textarea::-webkit-input-placeholder {
+    color: #bcc1c3;
+}
+
+.rsvp .rsvp-form .form-input-group textarea:-moz-placeholder {
+    color: #bcc1c3;
+}
+
+.rsvp .rsvp-form .form-input-group textarea::-moz-placeholder {
+    color: #bcc1c3;
+}
+
+.rsvp .rsvp-form .form-input-group textarea:-ms-input-placeholder {
+    color: #bcc1c3;
+}
+
+.rsvp .rsvp-form .form-input-group.textarea-group {
+    height: auto;
+    min-height: 80px;
+}
+
+.rsvp .rsvp-form .form-input-group i.fa-comment {
+    font-size: 14px;
+    position: absolute;
+    top: 20px;
+    transform: translateY(-50%);
+    margin-left: 20px;
+}
